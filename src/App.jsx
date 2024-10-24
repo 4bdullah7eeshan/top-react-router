@@ -9,7 +9,7 @@ function App() {
       <nav>
         <ul>
           <li>
-            <Link href="profile">Profile page</Link>
+            <Link to="profile">Profile page</Link>
           </li>
         </ul>
       </nav>
